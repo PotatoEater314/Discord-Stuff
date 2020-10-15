@@ -1,0 +1,9 @@
+{
+    "colors":{
+        "embed": "#FFFAFA",
+        "red": "#ff6961",
+        "blue": "#c0eeff",
+        "green": "#89e894"
+    },
+    "prefix": ";"
+}
